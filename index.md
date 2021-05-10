@@ -6,11 +6,11 @@ As employees begin to return to the office, post Covid-19 work from home practic
 ![alt text](DeskClipArt.png "Logo")
 
 ## Project Technologies
- - Kotlin Programming Language ![alt text](kotlin-logo.png "Kotlin Logo")
- - Google Firebase Authentication
- - Google Firebase Realtime Database
- - Google Firebase Storage
- - Google Firebase Cloud Functions
+
+  - ![alt text](kotlin-logo.png "Kotlin Programming Language")
+  - ![alt text](firebaseauth.png "Firebase Authentication")
+  - ![alt text](firebaserealtime.png "Firebase Realtime Database")
+  - ![alt text](firebasefunctions.png "Firebase Cloud Functions")
 
 ## Project Tools
 - Android Studio
