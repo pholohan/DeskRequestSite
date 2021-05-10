@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Desk Request - Post Covid Office Desk Booking Android App
 
-You can use the [editor on GitHub](https://github.com/pholohan/DeskRequestSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As employees begin to return to the office, post Covid-19 work from home practices, and with social distancing requirements meaning less available desks per office space there is now a requirement for workers to book a desk prior to coming on site. Employees will log into the application and will be presented with a list of the offices on site. When the employee clicks on the office of choice they will be presented with a layout of the office and whether a desk has been already booked or is available for selection. Once the employee selects a desk, they will be sent a confirmation email and the desk will be removed from the available list. Desk booking can be Half or Full day. Elevated User functionality such as a Facilities Manager will include option to add offices, desks, report on available desks and usage reports by date and users for a particular desk number in case of contract tracing requirements.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![alt text](Desk Clip Art.png "Logo")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Project Technologies
+ - Kotlin Programming Language
+ - Google Firebase Authentication
+ - Google Firebase Realtime Database
+ - Google Firebase Storage
+ - Google Firebase Cloud Functions
 
-```markdown
-Syntax highlighted code block
+## Project Tools
+- Android Studio
+- Google Firebase
+- Github
+- SourceTree
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Data Flow Diagram
 
-1. Numbered
-2. List
+![alt text](Level2DataFlowDiagram.png "Data Flow Diagram")
 
-**Bold** and _Italic_ and `Code` text
+### Entity Relations Diagram
 
-[Link](url) and ![Image](src)
-```
+![alt text](ERDiagram.png "Entity Relations Diagram")
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### GitHub Project Repository
+- (https://github.com/pholohan/DeskRequest)
 
-### Jekyll Themes
+### Trello Project Details
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pholohan/DeskRequestSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- (https://trello.com/b/7claKhl1/project-2021)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
