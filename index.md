@@ -16,7 +16,7 @@ As employees begin to return to the office, post Covid-19 work from home practic
   ![alt text](android-studio-logo.png "Android Studio")  
   ![alt text](firebase.png "Google Firebase")  
   ![alt text](githublogo.png "Github")  
-  ![alt text](sourcetree.png "SourceTree") 
+  ![alt text](sourcetree.png "SourceTree")  
   ![alt text](trello.png "Trello")  
 
 ### Data Flow Diagram
