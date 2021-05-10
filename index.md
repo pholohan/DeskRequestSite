@@ -7,17 +7,17 @@ As employees begin to return to the office, post Covid-19 work from home practic
 
 ## Project Technologies
 
-  - ![alt text](kotlin-logo.png "Kotlin Programming Language")
-  - ![alt text](firebaseauth.png "Firebase Authentication")
-  - ![alt text](firebaserealtime.png "Firebase Realtime Database")
-  - ![alt text](firebasefunctions.png "Firebase Cloud Functions")
+  ![alt text](kotlin-logo.png "Kotlin Programming Language")  
+  ![alt text](firebaseauth.png "Firebase Authentication")  
+  ![alt text](firebaserealtime.png "Firebase Realtime Database")  
+  ![alt text](firebasefunctions.png "Firebase Cloud Functions")  
 
 ## Project Tools
-- Android Studio
-- Google Firebase
-- Github
-- SourceTree
-- Trello
+  ![alt text](android-studio-logo.png "Android Studio")  
+  ![alt text](firebase.png "Google Firebase")  
+  ![alt text](githublogo.png "Github")  
+  ![alt text](sourcetree.png "SourceTree") 
+  ![alt text](trello.png "Trello")  
 
 ### Data Flow Diagram
 
