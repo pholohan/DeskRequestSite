@@ -5,6 +5,9 @@ As employees begin to return to the office, post Covid-19 work from home practic
 
 ![alt text](DeskClipArt.png "Logo")
 
+## Project Proposal
+  ![alt text](proposal.png "Proposal")  
+
 ## Project Technologies
 
   ![alt text](kotlin-logo.png "Kotlin Programming Language")  
