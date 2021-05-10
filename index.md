@@ -6,7 +6,7 @@ As employees begin to return to the office, post Covid-19 work from home practic
 ![alt text](DeskClipArt.png "Logo")
 
 ## Project Technologies
- - Kotlin Programming Language
+ - Kotlin Programming Language ![alt text](kotlin-logo.png "Kotlin Logo")
  - Google Firebase Authentication
  - Google Firebase Realtime Database
  - Google Firebase Storage
@@ -17,7 +17,7 @@ As employees begin to return to the office, post Covid-19 work from home practic
 - Google Firebase
 - Github
 - SourceTree
-
+- Trello
 
 ### Data Flow Diagram
 
