@@ -38,5 +38,5 @@ As employees begin to return to the office, post Covid-19 work from home practic
 [Click for Trello Project](https://trello.com/b/7claKhl1/project-2021)
 
 ### Desk Request App Screenshots
-  ![alt text](screenshots.png "Desk Request Android App")  
+  ![alt text](Screenshots.png "Desk Request Android App")  
 
