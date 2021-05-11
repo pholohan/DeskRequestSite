@@ -31,11 +31,12 @@ As employees begin to return to the office, post Covid-19 work from home practic
 ![alt text](ERDiagram.png "Entity Relations Diagram")
 
 ### GitHub Project Repository
-[Click for Git Hub Repository!](https://github.com/pholohan/DeskRequest)
+[Click for Git Hub Repository](https://github.com/pholohan/DeskRequest)
 
 ### Trello Project Details
 
-[Click for Trello Project!](https://trello.com/b/7claKhl1/project-2021)
+[Click for Trello Project](https://trello.com/b/7claKhl1/project-2021)
 
-
+### Desk Request App Screenshots
+  ![alt text](screenshots.png "Desk Request Android App")  
 
