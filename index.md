@@ -21,6 +21,9 @@ As employees begin to return to the office, post Covid-19 work from home practic
   ![alt text](githublogo.png "Github")  
   ![alt text](sourcetree.png "SourceTree")  
   ![alt text](trello.png "Trello")  
+  
+### Use Case Diagram
+![alt text](Usecase.png "Use Case Diagram")
 
 ### Data Flow Diagram
 
